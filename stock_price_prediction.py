@@ -10,7 +10,6 @@ from tkinter import *
 from tkinter import ttk, filedialog
 from tkinter import messagebox
 import os
-
 plt.style.use('dark_background')
 
 def stock_prediction(file_path, models):
